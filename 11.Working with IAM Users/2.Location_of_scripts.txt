@@ -1,0 +1,5 @@
+Location of all python boto3 scripts for this course
+
+You will get all python boto3 scripts for this course from my Github link.
+
+Github link is:   https://github.com/AutomationWithScripting/UdemyBoto3Scripts
